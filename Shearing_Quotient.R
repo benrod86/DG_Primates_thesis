@@ -1,6 +1,3 @@
-
-### SHEARING QUOTIENT ###
-
 setwd("D:/My_stuff/UT_Austin/Masters_thesis/R_Code/DG_Primates_thesis/SQ")
 library(caper)
 library(ape)
