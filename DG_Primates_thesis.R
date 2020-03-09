@@ -458,10 +458,11 @@ opcmolar = OPC(molar)
 OPC3d(opcmolar)
 
 
-molar1 <- vcgPlyRead(file = "amnh_mammals_m-187362_M277-206_Galago_senegalensis_second_mandibular_molar.smooth.ply")
+molar1 <- vcgPlyRead(file = "amnh_mammals_m-106650_M414-335_Nycticebus_coucang_coucang_second_mandibular_molar.smooth.ply")
 rfimolar1 = RFI(molar1, alpha = .12)
 RFI3d(rfimolar1, displacement = 2)
 Check2D(rfimolar1, FootColor = "red", TriPointsColor = "black")
 DNE(molar1)
 DNEmolar = DNE(molar1)
 DNE3d(DNEmolar)
+
