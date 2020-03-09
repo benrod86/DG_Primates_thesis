@@ -1,0 +1,29 @@
+#NEXUS
+
+
+BEGIN TAXA;
+	TITLE Untitled_Block_of_Taxa;
+	DIMENSIONS NTAX=13;
+	TAXLABELS
+		Cacajao_calvus Chiropotes_satanas Pithecia_irrorata Callicebus_cupreus Callicebus_moloch Alouatta_palliata Alouatta_seniculus Brachyteles_arachnoides Lagothrix_lagotricha Ateles_geoffroyi Saimiri_boliviensis Cebus_capucinus Aotus_vociferans 
+	;
+END;
+
+
+BEGIN TREES;
+	Title 'Shear_Analysis';
+	ID 016998195f3a12;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		1 Callicebus_cupreus,
+[1] 		2 Callicebus_moloch,
+[2] 		3 Lagothrix_lagotricha,
+[3] 		4 Ateles_geoffroyi,
+[4] 		5 Saimiri_boliviensis,
+[5] 		6 Cebus_capucinus,
+[6] 		7 Aotus_vociferans;
+	TREE 'UpperM1_Platyrrhines' = ((1:0.022518,2:0.022519):0.21779300000000001,((3:0.133246,4:0.133246):0.09490699999999999,((5:0.18033500000000002,6:0.180334):0.025303,7:0.205638):0.022515):0.012159):0.43320400000000003[% ] [% ] [%  setBetweenBits = selected ];
+END;
+
+
+

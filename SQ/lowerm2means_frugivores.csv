@@ -1,0 +1,12 @@
+Species,Diet,extant_fossil,Mean M-D Length,Mean Crest Length,,Log10_length_frugs,Log10_sum_frugs,Log10_ets_frugs,Log10_sq_frugs,,Log10_length_all,Log10_sum_all,Log10_ets_all,Log10_sq_all
+Cheirogaleus_major, Fruit,extant,3.43,5.22,,0.54,0.72,0.78,-8.53,,0.54,0.72,0.83,-13.19
+Cheirogaleus_medius, Fruit,extant,2.32,4.06,,0.37,0.61,0.61,-0.58,,0.37,0.61,0.66,-7.61
+Eulemur_coronatus, Fruit,extant,4.78,9.03,,0.68,0.96,0.93,2.65,,0.68,0.96,0.97,-1.42
+Eulemur_fulvus_mayottensis, Fruit,extant,5.81,10.41,,0.76,1.02,1.02,0.03,,0.76,1.02,1.05,-3.41
+Eulemur_macaco, Fruit,extant,5.63,11.27,,0.75,1.05,1,4.85,,0.75,1.05,1.04,1.16
+Galago_alleni, Fruit,extant,2.8,5.44,,0.45,0.74,0.7,5.83,,0.45,0.74,0.74,-0.53
+Microcebus_murinus, Fruit,extant,1.58,2.92,,0.2,0.47,0.44,5.15,,0.2,0.47,0.49,-5.69
+Nycticebus_coucang, Fruit,extant,3.34,6.28,,0.52,0.8,0.77,3.25,,0.52,0.8,0.82,-2.13
+Otolemur_crassicaudatus, Fruit,extant,3.72,6.31,,0.57,0.8,0.82,-2.48,,0.57,0.8,0.86,-7.15
+Perodicticus_potto, Fruit,extant,3.41,5.24,,0.53,0.72,0.78,-8.01,,0.53,0.72,0.82,-12.73
+Varecia_variegata, Fruit,extant,6.78,11.92,,0.83,1.08,1.09,-0.82,,0.83,1.08,1.12,-3.88

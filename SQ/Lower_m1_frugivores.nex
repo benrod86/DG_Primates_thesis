@@ -1,0 +1,33 @@
+#NEXUS
+
+
+BEGIN TAXA;
+	TITLE Untitled_Block_of_Taxa;
+	DIMENSIONS NTAX=18;
+	TAXLABELS
+		Cacajao_melanocephalus Chiropotes_satanas Pithecia_monachus Callicebus_moloch Alouatta_palliata Alouatta_caraya Alouatta_fusca Brachyteles_arachnoides Lagothrix_lagotricha Ateles_geoffroyi Saimiri_sciureus Cebus_apella Saguinus_mystax Leontopithecus_rosalia Callimico_goeldii Callithrix_argentata Cebuella_pygmaea Aotus_trivirgatus 
+	;
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 0169980ce50010;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		1 Callicebus_moloch,
+[1] 		2 Lagothrix_lagotricha,
+[2] 		3 Ateles_geoffroyi,
+[3] 		4 Saimiri_sciureus,
+[4] 		5 Cebus_apella,
+[5] 		6 Saguinus_mystax,
+[6] 		7 Leontopithecus_rosalia,
+[7] 		8 Callimico_goeldii,
+[8] 		9 Callithrix_argentata,
+[9] 		10 Cebuella_pygmaea,
+[10] 		11 Aotus_trivirgatus;
+	TREE Lowerm1 = (1:0.24031199999999997,((2:0.133246,3:0.133246):0.09490699999999999,((4:0.18033600000000002,5:0.180334):0.025303,((6:0.146637,(7:0.139288,(8:0.122087,(9:0.040107000000000004,10:0.040107):0.08198):0.0172):0.007349):0.054989,11:0.201626):0.004012):0.022515):0.012159):0.433204[% ] [% ] [%  setBetweenBits = selected ];
+END;
+
+
+

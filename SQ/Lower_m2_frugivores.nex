@@ -1,0 +1,33 @@
+#NEXUS
+
+
+BEGIN TAXA;
+	TITLE Untitled_Block_of_Taxa;
+	DIMENSIONS NTAX=29;
+	TAXLABELS
+		Galagoides_demidoff Galago_senegalensis Otolemur_crassicaudatus Galago_alleni Euoticus_elegantulus Euoticus_inustus Loris_tardigradus Nycticebus_coucang Perodicticus_potto Arctocebus_calabarensis Varecia_variegata Lemur_catta Hapalemur_simus Hapalemur_griseus Eulemur_fulvus_rufus Eulemur_fulvus_mayottensis Eulemur_macaco Eulemur_coronatus Phaner_furcifer Lepilemur_mustelinus Allocebus_trichotis Microcebus_murinus Cheirogaleus_major Cheirogaleus_medius Indri_indri Avahi_laniger Propithecus_diadema Propithecus_verreauxi Tarsius_spectrum 
+	;
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 0169980ce50010;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		1 Otolemur_crassicaudatus,
+[1] 		2 Galago_alleni,
+[2] 		3 Nycticebus_coucang,
+[3] 		4 Perodicticus_potto,
+[4] 		5 Varecia_variegata,
+[5] 		6 Eulemur_fulvus_mayottensis,
+[6] 		7 Eulemur_macaco,
+[7] 		8 Eulemur_coronatus,
+[8] 		9 Microcebus_murinus,
+[9] 		10 Cheirogaleus_major,
+[10] 		11 Cheirogaleus_medius;
+	TREE Imported_tree_1 = (((1:0.102361,2:0.102361):0.271119,(3:0.345931,4:0.345931):0.02755):0.159386,((5:0.227883,(6:0.06522,(7:0.057816,8:0.057816):0.007403):0.16266399999999998):0.106967,(9:0.23732699999999998,(10:0.063992,11:0.063992):0.173335):0.097522):0.198018):0.140648[% ] [% ] [%  setBetweenBits = selected ];
+END;
+
+
+

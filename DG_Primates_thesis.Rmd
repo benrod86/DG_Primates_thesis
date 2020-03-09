@@ -1,7 +1,7 @@
 ---
-title: "DG_Primates_thesis"
+title: "Untitled"
 author: "Ben Rodwell"
-date: "February 10, 2020"
+date: "March 5, 2020"
 output: html_document
 ---
 
@@ -9,22 +9,29 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# SHEARING QUOTIENT
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
+
+```{r, echo = FALSE}
+library(caper)
+library(ape)
+library(geiger)
+library(nlme)
+library(tidyverse)
 ```
 
-## Including Plots
+# Add data and remove fossil taxa
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r echo=FALSE}
+upperM1 <- read.csv("upperM1means.csv", header = T, row.names = 1)
+upperM1_extant <- upperM1[-c(14,15,16),]
+lowerm1 <- read.csv("lowerm1means.csv", header = T, row.names = 1)
+lowerm1_extant <- lowerm1[-c(19,20,21,22,23),]
+lowerm2 <- read.csv("lowerm2means.csv", header = T, row.names = 1)
+lowerm2_extant <- lowerm2[-c(30,31),]
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+

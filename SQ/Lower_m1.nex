@@ -1,0 +1,30 @@
+#NEXUS
+[written Tue Mar 19 18:14:43 CDT 2019 by Mesquite  version 3.6 (build 917) at Ben/192.168.0.4]
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 0169980ce50010;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		1 Cacajao_melanocephalus,
+[1] 		2 Chiropotes_satanas,
+[2] 		3 Pithecia_monachus,
+[3] 		4 Callicebus_moloch,
+[4] 		5 Alouatta_palliata,
+[5] 		6 Alouatta_caraya,
+[6] 		7 Alouatta_fusca,
+[7] 		8 Brachyteles_arachnoides,
+[8] 		9 Lagothrix_lagotricha,
+[9] 		10 Ateles_geoffroyi,
+[10] 		11 Saimiri_sciureus,
+[11] 		12 Cebus_apella,
+[12] 		13 Saguinus_mystax,
+[13] 		14 Leontopithecus_rosalia,
+[14] 		15 Callimico_goeldii,
+[15] 		16 Callithrix_argentata,
+[16] 		17 Cebuella_pygmaea,
+[17] 		18 Aotus_trivirgatus;
+	TREE Lowerm1 = ((((1:0.070783,2:0.070782):0.072241,3:0.14302299999999998):0.064111,4:0.20713399999999998):0.033178,(((5:0.042182,(6:0.037561,7:0.037562):0.004621):0.130482,((8:0.115532,9:0.115532):0.017714,10:0.133246):0.039418):0.055489,((11:0.18033600000000002,12:0.180334):0.025303,((13:0.146637,(14:0.139288,(15:0.122087,(16:0.040107000000000004,17:0.040107):0.08198):0.0172):0.007349):0.054989,18:0.201626):0.004012):0.022515):0.012159):0.433204;
+
+END;
+

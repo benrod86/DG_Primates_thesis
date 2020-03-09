@@ -1,0 +1,24 @@
+#NEXUS
+
+BEGIN TREES;
+	Title 'Shear_Analysis';
+	ID 016998195f3a12;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		1 Cacajao_calvus,
+[1] 		2 Chiropotes_satanas,
+[2] 		3 Pithecia_irrorata,
+[3] 		4 Callicebus_cupreus,
+[4] 		5 Callicebus_moloch,
+[5] 		6 Alouatta_palliata,
+[6] 		7 Alouatta_seniculus,
+[7] 		8 Brachyteles_arachnoides,
+[8] 		9 Lagothrix_lagotricha,
+[9] 		10 Ateles_geoffroyi,
+[10] 		11 Saimiri_boliviensis,
+[11] 		12 Cebus_capucinus,
+[12] 		13 Aotus_vociferans,;
+	TREE 'UpperM1_Platyrrhines' = ((((1:0.07078200000000001,2:0.070782):0.072241,3:0.143023):0.064111,(4:0.022518,5:0.022519):0.184615):0.033178,(((6:0.042182,7:0.042183):0.130482,((8:0.115532,9:0.115532):0.017714,10:0.133246):0.039418):0.055489,((11:0.18033500000000002,12:0.180334):0.025303,13:0.205638):0.022515):0.012159):0.43320400000000003; 
+END;
+
+

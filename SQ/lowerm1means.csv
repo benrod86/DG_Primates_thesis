@@ -1,0 +1,24 @@
+Species,Diet,extant_fossil,Mean M-D Length,Mean Crest Length,,Log10_length_frugs,Log10_sum_frugs,Log10_ets_frugs,Log10_sq_frugs,,Log10_length_all,Log10_sum_all,Log10_ets_all,Log10_sq_all
+Alouatta_caraya, Leaves,extant,6.72,13.09,,0.83,1.12,1.07,4.50,,0.83,1.12,1.09,2.47
+Alouatta_fusca, Leaves,extant,6.70,12.94,,0.83,1.11,1.07,4.15,,0.83,1.11,1.09,2.14
+Alouatta_palliata, Leaves,extant,6.92,13.91,,0.84,1.14,1.08,5.78,,0.84,1.14,1.10,3.63
+Aotus_trivirgatus, Fruit,extant,3.06,6.16,,0.49,0.79,0.75,5.73,,0.49,0.79,0.74,7.41
+Ateles_geoffroyi, Fruit,extant,5.26,9.31,,0.72,0.97,0.97,0.04,,0.72,0.97,0.98,-1.08
+Brachyteles_arachnoides, Leaves,extant,7.22,15.19,,0.86,1.18,1.10,7.58,,0.86,1.18,1.12,5.27
+Cacajao_melanocephalus,Hard_objects,extant,3.97,5.90,,0.60,0.77,0.85,-9.67,,0.60,0.77,0.85,-9.59
+Callicebus_moloch, Fruit,extant,3.18,5.55,,0.50,0.74,0.76,-2.39,,0.50,0.74,0.75,-1.09
+Callimico_goeldii, Fruit,extant,2.60,5.48,,0.41,0.74,0.68,8.63,,0.41,0.74,0.66,11.66
+Callithrix_argentata, Fruit,extant,2.22,4.08,,0.35,0.61,0.62,-0.77,,0.35,0.61,0.59,3.44
+Cebuella_pygmaea, Fruit,extant,1.78,3.26,,0.25,0.51,0.52,-2.23,,0.25,0.51,0.49,4.59
+Cebus_apella, Fruit,extant,4.79,7.71,,0.68,0.89,0.93,-4.64,,0.68,0.89,0.94,-5.36
+Chiropotes_satanas,Hard_objects,extant,3.64,5.58,,0.56,0.75,0.82,-8.71,,0.56,0.75,0.81,-8.21
+Lagothrix_lagotricha, Fruit,extant,5.47,10.12,,0.74,1.01,0.98,2.09,,0.74,1.01,1.00,0.80
+Leontopithecus_rosalia, Fruit,extant,3.09,5.62,,0.49,0.75,0.75,-0.14,,0.49,0.75,0.74,1.38
+Pithecia_monachus,Hard_objects,extant,4.00,6.78,,0.60,0.83,0.86,-2.95,,0.60,0.83,0.86,-2.89
+Saguinus_mystax, Fruit,extant,2.52,4.03,,0.40,0.61,0.67,-9.29,,0.40,0.61,0.65,-6.52
+Saimiri_sciureus, Fruit,extant,2.87,5.54,,0.46,0.74,0.72,3.19,,0.46,0.74,0.71,5.28
+Omomys_carteri,Omomys_carteri,fossil,2.486,4.857,,0.40,0.69,0.66,3.73,,0.40,0.69,0.64,7.02
+Diablomomys_dalquesti,Diablomomys_dalquesti,fossil,2.91,5.28,,0.46,0.72,0.73,-0.49,,0.46,0.72,0.71,1.43
+Taxon_A,Taxon_A,fossil,3.3409,6.373333333,,0.52,0.80,0.78,2.76,,0.52,0.80,0.77,3.82
+Taxon_B,Taxon_B,fossil,3.71,6.37,,0.57,0.80,0.83,-2.56,,0.57,0.80,0.82,-2.13
+Mescalerolemur_horneri,Mescalerolemur,fossil,3.173913043,5.966666667,,0.50,0.78,0.76,1.84,,0.50,0.78,0.75,3.21
